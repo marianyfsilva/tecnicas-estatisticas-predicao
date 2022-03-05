@@ -14,6 +14,7 @@ Aluna: Mariany Ferreira da Silva, 19200646
 - [Pip::22.0.3](https://pip.pypa.io/en/stable/installation/)
 - [R](https://www.r-project.org/)
     - [ggplot2](https://ggplot2.tidyverse.org/)
+    - [moments](https://cran.r-project.org/web/packages/moments/index.html)
 - [Jupiter Notebook](https://jupyter.org/install#jupyter-notebook)
 
 ## Executar Jupiter Notebook
