@@ -55,12 +55,12 @@ TO DO
 ### Diagramas de dispersão com variaveis transformadas
 
 |![DADOS](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/DADOS.png?raw=true)
-|![POPULACAO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/POPULACAO.png?raw=true)
-![RENDA](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/RENDA.png?raw=true)
-![SEM_BASICO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/SEM_BASICO.png?raw=true)
-![SEM_MEDIO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/SEM_MEDIO.png?raw=true)
-![COM_SUPERIOR](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/COM_SUPERIOR.png?raw=true)
-![DESEMPREGADOS](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformadas/DESEMPREGADOS.png?raw=true)|
+|![POPULACAO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/POPULACAO.png?raw=true)
+![RENDA](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/RENDA.png?raw=true)
+![SEM_BASICO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/SEM_BASICO.png?raw=true)
+![SEM_MEDIO](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/SEM_MEDIO.png?raw=true)
+![COM_SUPERIOR](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/COM_SUPERIOR.png?raw=true)
+![DESEMPREGADOS](https://github.com/marianyfsilva/tecnicas-estatisticas-predicao/blob/master/diagramas_de_dispersao_transformados/DESEMPREGADOS.png?raw=true)|
 
 ## Resultados e discussões
 
